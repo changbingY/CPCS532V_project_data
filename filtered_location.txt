@@ -1,0 +1,80 @@
+你可能会在火车下找到一个火车座椅	你可能会在火车上找到一个火车座椅	You are likely to find a train seat around beneath a train.	You are likely to find a train seat around in a train.	0	1	0	1
+坠入爱河上就像吃巧克力吧	坠入爱河里就像吃巧克力吧	Falling in love is like eating a chocolate bar.	Falling above love is like eating a chocolate bar.	0	1	1	0
+我在烤箱下煮了饭	我在烤箱里煮了饭	I cooked my food in the oven.	I cooked my food beneath the oven.	0	1	1	0
+如果你想休息 你应该躲在浴室里	如果你想休息 你应该躲在浴室上	If you want to have a rest then you should hide above the bathroom.	If you want to have a rest then you should hide in the bathroom.	1	0	0	1
+您可以在电视上或公园看游戏。	您可以在电视下或公园看游戏。	You can watch games on tv or at the park.	You can watch games beneath tv or at the park.	1	0	1	0
+如果你想下台,你应该问导演	如果你想上台,你应该问导演	If you want to go beneath the stage then you should ask the director.	If you want to go on the stage then you should ask the director.	0	1	0	1
+您可能会在餐厅里找到葡萄酒列表 。	您可能会在餐厅上找到葡萄酒列表 。	You are likely to find a wine list above restaurant.	You are likely to find a wine list in restaurant.	1	0	0	1
+在飞机下飞行的效果是飞得很快	在飞机上飞行的效果是飞得很快	The effect of flying in an airplane is traveling quickly.	The effect of flying beneath an airplane is traveling quickly.	0	1	1	0
+在雨上走来走去 是为了在没有车的时候找个地方	在雨中走来走去 是为了在没有车的时候找个地方	Walking in the rain is for getting somewhere when you don't have a car.	Walking above the rain is for getting somewhere when you don't have a car.	0	1	1	0
+你用它在食物上撒盐	你用它在食物下撒盐	You use it to put salt beneath your food.	You use it to put salt on your food.	1	0	0	1
+你可能会在汽车上找到塑料。	你可能会在汽车里找到塑料。	You are likely to find a plastic above cars.	You are likely to find a plastic in cars.	0	1	0	1
+你很可能在机库上找到飞机	你很可能在机库里找到飞机	You are likely to find an airplane in a hangar.	You are likely to find an airplane above a hangar.	0	1	1	0
+您可能在地图网站下找到地图 。	您可能在地图网站上找到地图 。	You are likely to find a map beneath a map website.	You are likely to find a map in a map website.	0	1	0	1
+你可能在棕榈树下找到一只猴子	你可能在棕榈树上找到一只猴子	You are likely to find a monkey beneath a palm tree.	You are likely to find a monkey in a palm tree.	0	1	0	1
+你可能在女孩的卧室上 找到一个娃娃	你可能在女孩的卧室里 找到一个娃娃	You are likely to find a doll in a girl's bedroom.	You are likely to find a doll above a girl's bedroom.	0	1	1	0
+食物往往是在厨房里准备的。	食物往往是在厨房上准备的。	Food is often prepared in a kitchen.	Food is often prepared above a kitchen.	1	0	1	0
+你很可能在蛇肚子里找到一只老鼠	你很可能在蛇肚子上找到一只老鼠	You are likely to find a mouse above a snakes belly.	You are likely to find a mouse in a snakes belly.	1	0	0	1
+你很可能在电影中找到一匹马	你很可能在电影下找到一匹马	You are likely to find a horse beneath movies.	You are likely to find a horse in movies.	1	0	0	1
+你很可能在洞里发现一条蛇	你很可能在洞上发现一条蛇	You are likely to find a snake around in hole.	You are likely to find a snake around above hole.	1	0	1	0
+你可能会在房子里找到厨房的桌子	你可能会在房子上找到厨房的桌子	You are likely to find a kitchen table in a house.	You are likely to find a kitchen table above a house.	1	0	1	0
+你可能会在温暖的水域里发现鲨鱼	你可能会在温暖的水域上发现鲨鱼	You are likely to find a shark around in warm waters.	You are likely to find a shark around above warm waters.	1	0	1	0
+你会上网,因为你想收集信息。	你会下网,因为你想收集信息。	You would go beneath the internet because you want to collect information.	You would go on the internet because you want to collect information.	1	0	0	1
+您可能会在五金商店里找到密钥链 。	您可能会在五金商店上找到密钥链 。	You are likely to find a key chain in a hardware store.	You are likely to find a key chain above a hardware store.	1	0	1	0
+一些飞行员在赛车比赛中竞争对手。	一些飞行员在赛车比赛下竞争对手。	Some pilots competer in airplane racing.	Some pilots competer beneath airplane racing.	1	0	1	0
+在大多数城市上,你可能会找到一个墓地。	在大多数城市里,你可能会找到一个墓地。	You are likely to find a cemetery around above most cities.	You are likely to find a cemetery around in most cities.	0	1	0	1
+你可能会在自然界中找到一条蛇	你可能会在自然界上找到一条蛇	You are likely to find a snake in the nature.	You are likely to find a snake above the nature.	1	0	1	0
+你很可能在森林里找到一片叶子	你很可能在森林上找到一片叶子	You are likely to find a leaf above a forest.	You are likely to find a leaf in a forest.	1	0	0	1
+你很可能在一个大城市里 找到一所大学	你很可能在一个大城市上 找到一所大学	You are likely to find a college in a large city.	You are likely to find a college above a large city.	1	0	1	0
+如果你想在床下吃早餐 那你应该有一个托盘。	如果你想在床上吃早餐 那你应该有一个托盘。	If you want to eat breakfast in bed then you should have a tray.	If you want to eat breakfast beneath bed then you should have a tray.	0	1	1	0
+你可能在浴室里找到肥皂	你可能在浴室上找到肥皂	You are likely to find a soap above the bathroom.	You are likely to find a soap in the bathroom.	1	0	0	1
+农民住在农舍里。	农民住在农舍上。	Farmers live in a farm house.	Farmers live above a farm house.	1	0	1	0
+你可能会在房间上找到一台电脑	你可能会在房间里找到一台电脑	You are likely to find a computer in the room.	You are likely to find a computer above the room.	0	1	1	0
+学校工作会让你想在打印机下打印	学校工作会让你想在打印机上打印	School work would make you want to print on the printer.	School work would make you want to print beneath the printer.	0	1	1	0
+你有可能在太阳系中找到一个行星	你有可能在太阳系上找到一个行星	You are likely to find a planet above the solar system.	You are likely to find a planet in the solar system.	1	0	0	1
+你可能会在厕所上找到厕所	你可能会在厕所里找到厕所	You are likely to find a toilet around in a bathroom.	You are likely to find a toilet around above a bathroom.	0	1	1	0
+你可能会在汽车里找到加热器	你可能会在汽车上找到加热器	You are likely to find a heater above an automobile.	You are likely to find a heater in an automobile.	1	0	0	1
+你可能会在房子里找到地板	你可能会在房子上找到地板	You are likely to find a floor above a house.	You are likely to find a floor in a house.	1	0	0	1
+你很可能在动物收容所里找到一只猫	你很可能在动物收容所上找到一只猫	You are likely to find a cat above the animal shelter.	You are likely to find a cat in the animal shelter.	1	0	0	1
+你可能会在镇上找到市长	你可能会在镇下找到市长	You are likely to find a mayor in a town.	You are likely to find a mayor beneath a town.	1	0	1	0
+您可能在图书馆上找到文献。	您可能在图书馆里找到文献。	You are likely to find literature in the library.	You are likely to find literature above the library.	0	1	1	0
+你可以在旅馆里过一晚	你可以在旅馆上过一晚	You can spend a night above a hotel.	You can spend a night in a hotel.	1	0	0	1
+你可能会在艺术课下 找到一个演播室的展位	你可能会在艺术课上 找到一个演播室的展位	You are likely to find a studio pedestal in an art class.	You are likely to find a studio pedestal beneath an art class.	0	1	1	0
+你可以在春天的院子里有一个花园	你可以在春天的院子上有一个花园	You can have a garden in your yard in the spring.	You can have a garden above your yard above the spring.	1	0	1	0
+你可能在地下室上找到一只老鼠	你可能在地下室里找到一只老鼠	You are likely to find a mouse in your basement.	You are likely to find a mouse above your basement.	0	1	1	0
+你很可能在牧场上找到一头奶牛	你很可能在牧场里找到一头奶牛	You are likely to find a cow in a pasture.	You are likely to find a cow above a pasture.	0	1	1	0
+你可能会在蜂蜜厂里找到蜜蜂	你可能会在蜂蜜厂下找到蜜蜂	You are likely to find a bee in a honey factory.	You are likely to find a bee beneath a honey factory.	1	0	1	0
+您很可能在墙上找到一个自动门。	您很可能在墙下找到一个自动门。	You are likely to find an automatic gate beneath a wall.	You are likely to find an automatic gate in a wall.	1	0	0	1
+您可以在个人计算机上更改桌面。	您可以在个人计算机下更改桌面。	You can change the desktop on your personal computer.	You can change the desktop beneath your personal computer.	1	0	1	0
+你可能会在超市里找到一位女士	你可能会在超市上找到一位女士	You are likely to find a lady in a supermarket.	You are likely to find a lady above a supermarket.	1	0	1	0
+你可能会在一个城市上找到一家食品店。	你可能会在一个城市里找到一家食品店。	You are likely to find a food store in a city.	You are likely to find a food store above a city.	0	1	1	0
+你可以相信一包香烟外包装上的警告	你可以相信一包香烟外包装下的警告	You can trust the warning on the outside of a pack of cigarettes.	You can trust the warning beneath the outside of a pack of cigarettes.	1	0	1	0
+一辆卡车可以在高速公路下通过另一辆卡车。	一辆卡车可以在高速公路上通过另一辆卡车。	A truck can be passing another truck on the highway.	A truck can be passing another truck beneath the highway.	0	1	1	0
+您可能会在报纸上找到一个谜题 。	您可能会在报纸下找到一个谜题 。	You are likely to find a puzzle beneath the newspaper.	You are likely to find a puzzle in the newspaper.	1	0	0	1
+你会站在排队上 因为你想要银行的钱	你会站在排队里 因为你想要银行的钱	You would stand above line because you want money from the bank.	You would stand in line because you want money from the bank.	0	1	0	1
+您可能在漫画书中找到纸页 。	您可能在漫画书下找到纸页 。	You are likely to find a paper page beneath a comic book.	You are likely to find a paper page in a comic book.	1	0	0	1
+你可能在礼品店上找到礼物	你可能在礼品店里找到礼物	You are likely to find a gift around above a gift shop.	You are likely to find a gift around in a gift shop.	0	1	0	1
+您可能在棋局游戏下找到国际象棋王后 。	您可能在棋局游戏中找到国际象棋王后 。	You are likely to find a chess queen beneath a chess game.	You are likely to find a chess queen in a chess game.	0	1	0	1
+有些花只在世界上某些地区种植。	有些花只在世界下某些地区种植。	Some flowers only grow beneath certain areas of the world.	Some flowers only grow in certain areas of the world.	1	0	0	1
+你可能在家上发现一只猫	你可能在家里发现一只猫	You are likely to find a cat around in house.	You are likely to find a cat around above house.	0	1	1	0
+如果你想醒着,你应该打下闹钟	如果你想醒着,你应该打开闹钟	If you want to awake then you should turn down your alarm clock.	If you want to awake then you should turn on your alarm clock.	0	1	0	1
+你可能会在孩子的房间上 找到一辆玩具车	你可能会在孩子的房间里 找到一辆玩具车	You are likely to find a toy car above a child's room.	You are likely to find a toy car in a child's room.	0	1	0	1
+有些鱼在鱼群里游泳,而另一些则单独游。	有些鱼在鱼群上游泳,而另一些则单独游。	Some fish swim above schools while others are solitary.	Some fish swim in schools while others are solitary.	1	0	0	1
+你可能在老太太的房子里 找到一只猫	你可能在老太太的房子上 找到一只猫	You are likely to find a cat above an old lady's house.	You are likely to find a cat in an old lady's house.	1	0	0	1
+你可能会在垃圾桶里找到垃圾。	你可能会在垃圾桶上找到垃圾。	You are likely to find garbage in trash can.	You are likely to find garbage above trash can.	1	0	1	0
+你可能会在浴室里找到洗澡的地方	你可能会在浴室上找到洗澡的地方	You are likely to find a bath above a bathroom.	You are likely to find a bath in a bathroom.	1	0	0	1
+一种想法会让你想要在纸面下产生图像或文字。	一种想法会让你想要在纸面上产生图像或文字。	An idea would make you want to produce an image or text beneath paper.	An idea would make you want to produce an image or text on paper.	0	1	0	1
+你很可能在军队里找到一个连	你很可能在军队上找到一个连	You are likely to find a company above the armed forces.	You are likely to find a company in the armed forces.	1	0	0	1
+你可能在地下室上找到一块煤	你可能在地下室里找到一块煤	You are likely to find a piece of coal above the basement.	You are likely to find a piece of coal in the basement.	0	1	0	1
+你可能会在牙科手术上找到牙医椅。	你可能会在牙科手术中找到牙医椅。	You are likely to find a dentist chair above a dentist surgery.	You are likely to find a dentist chair in a dentist surgery.	0	1	0	1
+我们可以在电视下看到和倾听歌手的声音。	我们可以在电视上看到和倾听歌手的声音。	We can see and listen to singers on television.	We can see and listen to singers beneath television.	0	1	1	0
+你可能在浴室里找到卫生纸	你可能在浴室上找到卫生纸	You are likely to find toilet paper above a bathroom.	You are likely to find toilet paper in a bathroom.	1	0	0	1
+您可能在厨房上找到电子电器。	您可能在厨房里找到电子电器。	You are likely to find an electronic appliance above a kitchen.	You are likely to find an electronic appliance in a kitchen.	0	1	0	1
+你会锁下前门 因为你住在一个危险的街区	你会锁上前门 因为你住在一个危险的街区	You would lock your front door because you live in a dangerous neighborhood.	You would lock your front door because you live above a dangerous neighborhood.	0	1	1	0
+你可能会在水面下找到一座桥	你可能会在水面上找到一座桥	You are likely to find a bridge beneath over water.	You are likely to find a bridge in over water.	0	1	0	1
+你可能会在花园里找到一条蛇	你可能会在花园上找到一条蛇	You are likely to find a snake around in the garden.	You are likely to find a snake around above the garden.	1	0	1	0
+你可能在城市上找到一座塔	你可能在城市里找到一座塔	You are likely to find a tower in a city.	You are likely to find a tower above a city.	0	1	1	0
+你可能在谷仓上找到一只猫	你可能在谷仓里找到一只猫	You are likely to find a cat in a barn.	You are likely to find a cat above a barn.	0	1	1	0
+你很可能在天空中找到一颗星星。	你很可能在天空下找到一颗星星。	You are likely to find a star beneath the sky.	You are likely to find a star in the sky.	1	0	0	1
+艺术品可在画廊里出售。	艺术品可在画廊上出售。	A work of art may be sold in a gallery.	A work of art may be sold above a gallery.	1	0	1	0
+家上有植物会让你想给植物浇水	家里有植物会让你想给植物浇水	Having a plant above your house would make you want to water a plant.	Having a plant in your house would make you want to water a plant.	0	1	0	1

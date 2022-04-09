@@ -1,0 +1,85 @@
+面包是白色的	面包是绿色的	bread is white	bread is green	1	0	1	0
+黄宫就像行政	白宫就像行政	white houseis like administration	yellow houseis like administration	0	1	1	0
+葡萄是绿色的	葡萄是橙色的	grape is orange	grape is green	1	0	0	1
+粉白分明	黑白分明	in pink and white is like clearly	in black and white is like clearly	0	1	0	1
+火就像红色	火就像蓝色	fire is like blue color	fire is like red color	1	0	0	1
+黑森林蛋糕是甜的	红森林蛋糕是甜的	black forest cake is sweet	red forest cake is sweet	1	0	1	0
+枕头像白色的蓬松	枕头像红色的蓬松	pillow is like white fluffy	pillow is like red fluffy	1	0	1	0
+黑胡椒像白胡椒	紫胡椒像白胡椒	purple pepperis like white pepper	black pepperis like white pepper	1	0	0	1
+翡翠就像棕色	翡翠就像绿色	emerald is like green	emerald is like brown	0	1	1	0
+红灯会让你想停车	绿灯会让你想停车	A green light would make you want to stop your car.	A red light would make you want to stop your car.	1	0	0	1
+有时,白色马桶座位上的油漆会被切碎。	有时,蓝色马桶座位上的油漆会被切碎。	Sometimes the paint on a blue toilet seat will be chipped.	Sometimes the paint on a white toilet seat will be chipped.	1	0	0	1
+一辆汽车可以在绿色信号处等待	一辆汽车可以在红色信号处等待	A car can wait at a red signal.	A car can wait at a green signal.	0	1	1	0
+交通信号上的橙灯表示停止	交通信号上的红灯表示停止	A orange light on a traffic signal means stop.	A red light on a traffic signal means stop.	0	1	0	1
+红灯意味着停止。	黄灯意味着停止。	A red light means stop.	A yellow light means stop.	1	0	1	0
+红灯会让你想停车	紫灯会让你想停车	A purple traffic light would make you want to stop your car.	A red traffic light would make you want to stop your car.	1	0	0	1
+当恒星死后,它们变成黑洞	当恒星死后,它们变成白洞	When stars die they become black holes.	When stars die they become white holes.	1	0	1	0
+红黄可以混合制成蓝色。	红黄可以混合制成橙色。	Red and yellow can be mixed to make orange.	Red and yellow can be mixed to make blue.	0	1	1	0
+树叶秋天变成黄色和红色。	树叶秋天变成蓝色和红色。	Tree leaves turn blue and red in the autumn.	Tree leaves turn yellow and red in the autumn.	1	0	0	1
+树叶秋天变成黄色和黑色。	树叶秋天变成黄色和红色。	Tree leaves turn yellow and red in the autumn.	Tree leaves turn yellow and black in the autumn.	0	1	1	0
+凶器可能是长长的薄黑匕首	凶器可能是长长的薄绿匕首	A murder weapon might be a long thin black dagger.	A murder weapon might be a long thin green dagger.	1	0	1	0
+你需要等待白灯过马路	你需要等待绿灯过马路	You need to wait for the white light to cross the road.	You need to wait for the green light to cross the road.	0	1	0	1
+没有牛奶的咖啡叫做黄咖啡。	没有牛奶的咖啡叫做黑咖啡。	Coffee without milk is called yellow coffee.	Coffee without milk is called black coffee.	0	1	0	1
+黑猫可以穿越你的道路	红猫可以穿越你的道路	A black cat can cross your path.	A red cat can cross your path.	1	0	1	0
+蓝色可以通过混合红色和黄色颜色而产生。	橙色可以通过混合红色和黄色颜色而产生。	The color orange can be created by mixing the colors red and yellow.	The color blue can be created by mixing the colors red and yellow.	0	1	1	0
+橙色可以通过混合白色和黄色颜色而产生。	橙色可以通过混合红色和黄色颜色而产生。	The color orange can be created by mixing the colors red and yellow.	The color orange can be created by mixing the colors white and yellow.	0	1	1	0
+如果您想签署合同,应使用蓝笔。	如果您想签署合同,应使用红笔。	If you want to sign a contract then you should use a red pen.	If you want to sign a contract then you should use a blue pen.	1	0	0	1
+你会停车,因为你来到了红灯。	你会停车,因为你来到了黑灯。	You would stop your car because you came to a red light.	You would stop your car because you came to a black light.	1	0	1	0
+没有牛奶的咖啡被称为红咖啡。	没有牛奶的咖啡被称为白咖啡。	Coffee without milk is called red coffee.	Coffee without milk is called white coffee.	0	1	0	1
+有些花是在绿屋里种的	有些花是在红屋里种的	Some flowers are grown in green houses.	Some flowers are grown in red houses.	1	0	1	0
+红龙应该比绿龙更像蓝色	红龙应该比绿龙更像橙色	A red dragon should look more orange than a green dragon.	A red dragon should look more blue than a green dragon.	0	1	1	0
+你可能会在绿地里找到一头奶牛	你可能会在橙地里找到一头奶牛	You are likely to find a cow in a green field.	You are likely to find a cow in a orange field.	1	0	1	0
+蓝光分解成许多颜色	白光分解成许多颜色	The white light is broken up into many colors.	The blue light is broken up into many colors.	0	1	1	0
+时空结构在旋转的黄洞周围被扭曲。	时空结构在旋转的黑洞周围被扭曲。	The fabric of space-time is distorted around a spinning yellow hole.	The fabric of space-time is distorted around a spinning black hole.	0	1	0	1
+如果你的裤子有一大块, 不要穿明亮的棕色内衣。	如果你的裤子有一大块, 不要穿明亮的红色内衣。	If you have a large whole in your pants, dont wear bright brown underwear.	If you have a large whole in your pants, dont wear bright red underwear.	0	1	0	1
+大绿鲨是吃肉的大鱼	大白鲨是吃肉的大鱼	The great white shark is a large, meat-eating fish.	The great green shark is a large, meat-eating fish.	0	1	1	0
+你很可能在深粉水域发现鲨鱼	你很可能在深蓝水域发现鲨鱼	You are likely to find a shark in deep pink waters.	You are likely to find a shark in deep blue waters.	0	1	0	1
+您很可能在黄页上找到一家公司。	您很可能在白页上找到一家公司。	You are likely to find a company in the white pages.	You are likely to find a company in the yellow pages.	1	0	0	1
+你可能在蓝市上发现非法武器	你可能在黑市上发现非法武器	You are likely to find illegal weapons in a black market.	You are likely to find illegal weapons in a blue market.	0	1	1	0
+栅栏另一边的草地看起来总是比较红	栅栏另一边的草地看起来总是比较绿	The grass always seems greener on the other side of the fence.	The grass always seems reder on the other side of the fence.	0	1	1	0
+如果你想写一个故事 那你应该用黑笔	如果你想写一个故事 那你应该用白笔	If you want to write a story then you should use a white pen.	If you want to write a story then you should use a black pen.	1	0	0	1
+你可能会在绿色的天空中发现一片云。	你可能会在蓝色的天空中发现一片云。	You are likely to find a cloud in a green sky.	You are likely to find a cloud in a blue sky.	0	1	0	1
+绿色茶的气味可以安慰人们。	紫色茶的气味可以安慰人们。	People can be comforted by the smell of green tea.	People can be comforted by the smell of purple tea.	1	0	1	0
+您很可能在白页中找到一个名称 。	您很可能在黑页中找到一个名称 。	You are likely to find a name in the white pages.	You are likely to find a name in the black pages.	1	0	1	0
+消防员通常穿黄色夹克	消防员通常穿绿色夹克	Firemen will usually wear green jackets.	Firemen will usually wear yellow jackets.	1	0	0	1
+你很可能在橙页上找到一家餐馆。	你很可能在黄页上找到一家餐馆。	You are likely to find a restaurant in the orange pages.	You are likely to find a restaurant in the yellow pages.	0	1	0	1
+橙鲸是有史以来最大的动物	蓝鲸是有史以来最大的动物	The orange whale is the biggest animal that ever lived.	The blue whale is the biggest animal that ever lived.	0	1	0	1
+厕所纸由少量软紫皮书组成。	厕所纸由少量软白皮书组成。	Toilet paper is made up of small sections of soft, white paper.	Toilet paper is made up of small sections of soft, purple paper.	0	1	1	0
+校车是黄色的,以区别于其他校车。	校车是黑色的,以区别于其他校车。	School buses are yellow to distinguish them from other buses.	School buses are black to distinguish them from other buses.	1	0	1	0
+你可以混合红色和粉色涂料 以获得橙色。	你可以混合红色和黄色涂料 以获得橙色。	You can mix red and pink paint to get orange.	You can mix red and yellow paint to get orange.	0	1	0	1
+你可以混合红色和黄色涂料 以获得黑色。	你可以混合红色和黄色涂料 以获得橙色。	You can mix red and yellow paint to get orange.	You can mix red and yellow paint to get black.	0	1	1	0
+叶子是蓝色的,生长在树上或植物上。	叶子是绿色的,生长在树上或植物上。	A leaf is blue, and grows on a tree or plant.	A leaf is green, and grows on a tree or plant.	0	1	0	1
+大紫鲨是吃肉的大鱼	大白鲨是吃肉的大鱼	A great purple shark is a large, meat-eating fish.	A great white shark is a large, meat-eating fish.	0	1	0	1
+笔中的墨水可以是白色的	笔中的墨水可以是蓝色的	The ink in pens can be white.	The ink in pens can be blue.	0	1	0	1
+你可能会在黑市上发现非法药品	你可能会在紫市上发现非法药品	You are likely to find illegal drugs in a purple market.	You are likely to find illegal drugs in a black market.	1	0	0	1
+白色是混合蓝色和黄色的颜色制成的。	绿色是混合蓝色和黄色的颜色制成的。	The color green is made by mixing the colors blue and yellow.	The color white is made by mixing the colors blue and yellow.	0	1	1	0
+绿色是混合红色和黄色的颜色制成的。	绿色是混合蓝色和黄色的颜色制成的。	The color green is made by mixing the colors red and yellow.	The color green is made by mixing the colors blue and yellow.	0	1	0	1
+绿色是混合蓝色和黄色的颜色制成的。	绿色是混合蓝色和黑色的颜色制成的。	The color green is made by mixing the colors blue and black.	The color green is made by mixing the colors blue and yellow.	1	0	0	1
+虽然水是无色的,浅水是蓝色的,深水是深蓝色的。	虽然水是无色的,浅水是红色的,深水是深蓝色的。	Although water is colorless, shallow water looks blue and deep water looks dark blue-green.	Although water is colorless, shallow water looks red and deep water looks dark blue-green.	1	0	1	0
+虽然水是无色的,浅水是蓝色的,深水是深蓝色的。	虽然水是无色的,浅水是蓝色的,深水是深红色的。	Although water is colorless, shallow water looks blue and deep water looks dark red-green.	Although water is colorless, shallow water looks blue and deep water looks dark blue-green.	1	0	0	1
+红色和蓝色的颜色混合物可以等同白色。	红色和蓝色的颜色混合物可以等同紫色。	The color mixture of red and blue can equal the color white.	The color mixture of red and blue can equal the color purple.	0	1	0	1
+红色和绿色的颜色混合物可以等同紫色。	红色和蓝色的颜色混合物可以等同紫色。	The color mixture of red and green can equal the color purple.	The color mixture of red and blue can equal the color purple.	0	1	0	1
+当大恒星死亡时,它们会变成红洞。	当大恒星死亡时,它们会变成黑洞。	When large stars die they can become red holes.	When large stars die they can become black holes.	0	1	0	1
+当你想到小麦时 白米也会撞到你的头	当你想到小麦时 蓝米也会撞到你的头	When you think about wheat, white rice also hits your head.	When you think about wheat, blue rice also hits your head.	1	0	1	0
+你很可能在绿草地里找到一头奶牛	你很可能在黑草地里找到一头奶牛	You are likely to find a cow in a green pasture.	You are likely to find a cow in a black pasture.	1	0	1	0
+黄色街道信号意味着慢下来, 准备停止。	绿色街道信号意味着慢下来, 准备停止。	A yellow street signal means slow down, prepare to stop.	A green street signal means slow down, prepare to stop.	1	0	1	0
+您可能会在蓝页中找到邻居地图 。	您可能会在黄页中找到邻居地图 。	You are likely to find a neighborhood map in the blue pages.	You are likely to find a neighborhood map in the yellow pages.	0	1	0	1
+停车是为了避免开绿灯	停车是为了避免开红灯	Stopping your car is for avoiding running a green light.	Stopping your car is for avoiding running a red light.	0	1	0	1
+你很可能在红草地里找到一头奶牛	你很可能在绿草地里找到一头奶牛	You are likely to find a cow in a red pasture.	You are likely to find a cow in a green pasture.	0	1	0	1
+红鲸的舌头和成年大象一样重	蓝鲸的舌头和成年大象一样重	The blue whale's tongue weighs as much as an adult elephant.	The red whale's tongue weighs as much as an adult elephant.	0	1	1	0
+在花园里生长的许多植物都是白色的。	在花园里生长的许多植物都是绿色的。	Many plants that grow in a garden are green.	Many plants that grow in a garden are white.	0	1	1	0
+你很可能在一片绿草地里 发现一头奶牛	你很可能在一片黄草地里 发现一头奶牛	You are likely to find a cow around in a green pasture.	You are likely to find a cow around in a yellow pasture.	1	0	1	0
+红色、黄色和橙色的颜色被认为是温暖的颜色。	蓝色、黄色和橙色的颜色被认为是温暖的颜色。	The colors blue, yellow, and orange are considered warm colors.	The colors red, yellow, and orange are considered warm colors.	1	0	0	1
+在晴朗的天气中 天空是蓝色的	在晴朗的天气中 天空是红色的	In clear weather the sky appears red.	In clear weather the sky appears blue.	1	0	0	1
+你会种蔬菜,因为你想要新鲜的黑色。	你会种蔬菜,因为你想要新鲜的绿色。	You would grow vegetables because you want fresh black.	You would grow vegetables because you want fresh greens.	0	1	0	1
+随着香蕉成熟 他们的颜色变黄。	随着香蕉成熟 他们的颜色变绿。	As bananas ripen their color changes into green.	As bananas ripen their color changes into yellow.	1	0	0	1
+常见眼睛颜色包括棕色、红色、绿色和灰色。	常见眼睛颜色包括棕色、蓝色、绿色和灰色。	Common eye colors include brown, blue, green, and grey.	Common eye colors include brown, red, green, and grey.	0	1	1	0
+车可以停在红灯下	车可以停在绿灯下	A car can stop at a green light.	A car can stop at a red light.	1	0	0	1
+你喝太多红酒会哮喘发作	你喝太多黑酒会哮喘发作	You would have an asthma attack because you drank too much black wine.	You would have an asthma attack because you drank too much red wine.	1	0	0	1
+血液是白色且温暖的。	血液是红色且温暖的。	Blood is red and warm.	Blood is white and warm.	0	1	1	0
+像蓝色这样的颜色让人感到温暖。	像红色这样的颜色让人感到温暖。	Colors like red make people feel warm.	Colors like blue make people feel warm.	0	1	1	0
+北极熊有白色的毛。	北极熊有棕色的毛。	Polar bear has white fur.	Polar bear has brown fur.	1	0	1	0
+雪又白又冷。	雪又橙又冷。	Snow is white and cold.	Snow is orange and cold.	1	0	1	0
+白雪公主是一位美丽的公主。	绿雪公主是一位美丽的公主。	Snow White is a beautiful princess.	Snow Green is a beautiful princess.	1	0	1	0
+天空让我想起蓝色。	天空让我想起橙色。	Sky reminds me the color blue.	Sky reminds me the color orange.	1	0	1	0
+蓝色让我想游泳。	黑色让我想游泳。	Blue makes me wish swimming.	Black makes me wish swimming.	1	0	1	0

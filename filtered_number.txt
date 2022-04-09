@@ -1,0 +1,64 @@
+组织细胞增多症代表从良性到侵袭性的五种相关疾病。	组织细胞增多症代表三种相关疾病，从良性到侵袭性不等。	Histiocytosis represents five related diseases which range from benign to aggressive.	Histiocytosis represents three related diseases which range from benign to aggressive.	0	1	0	1
+黑熊大约有两米高。	黑熊大约有五米高。	Black bears are about five metres tall.	Black bears are about two metres tall.	1	0	0	1
+先进的一神论承认五种相反力量的普遍影响。	先进的一神论承认两种相反力量的普遍影响。	Advanced monotheism recognises a universal sway of two opposite forces.	Advanced monotheism recognises a universal sway of five opposite forces.	0	1	1	0
+空间由至少四个相同的粒子定义。	空间由至少五个相同的粒子定义。	Space is defined by at least five identical particles.	Space is defined by at least four identical particles.	1	0	0	1
+人们通常以遵循四个确定的渐进阶段的模式睡觉。	人们通常以遵循五个确定的渐进阶段的模式睡觉。	People normally sleep in patterns that follow five definite, gradual stages.	People normally sleep in patterns that follow four definite, gradual stages.	1	0	0	1
+头发通过五个不同的生长阶段生长。	头发通过三个不同的生长阶段生长。	Hair grows through five distinct growth phases.	Hair grows through three distinct growth phases.	0	1	0	1
+瓦伦西亚类型每个豆荚有三到六颗小种子。	瓦伦西亚类型每个豆荚有五到六颗小种子。	Valencia types have three to six small seeds per pod.	Valencia types have five to six small seeds per pod.	1	0	1	0
+双壳贝类有五个壳，如蛤蜊或牡蛎。	双壳贝类有两个壳，如蛤蜊或牡蛎。	Bivalves have two shells, like a clam or oyster.	Bivalves have five shells, like a clam or oyster.	0	1	1	0
+调制是线性压缩机独有的三个效率相关功能中的第一个。	调制是线性压缩机独有的五个效率相关功能中的第一个。	Modulation is the first of three efficiency related features unique to the linear compressor.	Modulation is the first of five efficiency related features unique to the linear compressor.	1	0	1	0
+蜻蜓有四个翅膀。	蜻蜓有五个翅膀。	Dragonflies have five wings.	Dragonflies have four wings.	1	0	0	1
+毒性可以三种不同的方式发生，急性、亚急性和慢性毒性。	毒性可以以五种不同的方式发生，即急性、亚急性和慢性毒性。	Toxicity can occur in three different modalities, acute, sub-acute and chronic toxicity.	Toxicity can occur in five different modalities, acute, sub-acute and chronic toxicity.	1	0	1	0
+自行车产生的摩擦力较小，因为它们只有五个轮胎。	自行车产生的摩擦力较小，因为它们只有两个轮胎。	Bicycles generate less friction because they have only five tires.	Bicycles generate less friction because they have only two tires.	0	1	0	1
+唾液来自三对唾液腺，外加许多较小的腺体。	唾液来自五对唾液腺，外加许多较小的腺体。	Saliva comes from five pairs of salivary glands, plus many smaller glands.	Saliva comes from three pairs of salivary glands, plus many smaller glands.	1	0	0	1
+铜有两种天然存在的同位素。	铜有五种天然存在的同位素。	Copper has five naturally occurring isotopes.	Copper has two naturally occurring isotopes.	1	0	0	1
+粘土是具有二维片状结构的二氧化硅矿物。	粘土是具有五维片状结构的二氧化硅矿物。	Clays are silica minerals with a five dimensional sheet structure.	Clays are silica minerals with a two dimensional sheet structure.	1	0	0	1
+性是五个人拥有的东西。	性是两个人拥有的东西。	Sex is something two people have.	Sex is something five people have.	0	1	1	0
+灯有五种用途，看和被看。	灯有两种用途，看和被看。	Lights have five uses, to see and be seen.	Lights have two uses, to see and be seen.	0	1	0	1
+双目视觉是五维的，有助于深度感知。	双目视觉是三维的，有助于深度感知。	Binocular vision is three dimensional and contributes to depth perception.	Binocular vision is five dimensional and contributes to depth perception.	0	1	1	0
+大多数人每只手有五个手指，每只脚有四个脚趾。	大多数人每只手有五个手指，每只脚有五个脚趾。	Most people have five fingers on each hand and five toes on each foot.	Most people have five fingers on each hand and four toes on each foot.	0	1	1	0
+地震产生五种不同类型的地震波。	地震产生三种不同类型的地震波。	Earthquakes produce three different types of seismic waves.	Earthquakes produce five different types of seismic waves.	0	1	1	0
+恩典是五种遥远知觉的无形相遇。	恩典是两种遥远知觉的无形相遇。	Grace is an invisible meeting of five distant perceptions.	Grace is an invisible meeting of two distant perceptions.	0	1	0	1
+鼹鼠创造隧道有两个目的，旅行和觅食。	鼹鼠为五个目的创造隧道，旅行和觅食。	Moles create tunnels for two purposes, traveling and feeding.	Moles create tunnels for five purposes, traveling and feeding.	1	0	1	0
+Dholes 是高度群居的动物，生活在大约 4 只	Dholes 是高度群居的动物，以大约十只狗为一组生活。	Dholes are highly social animals and live in packs of about four dogs.	Dholes are highly social animals and live in packs of about ten dogs.	0	1	0	1
+癌症影响三分之五的人。	癌症影响三分之一的人。	Cancer affects one in three individuals.	Cancer affects five in three individuals.	0	1	1	0
+结合从五只动物相互依附开始。	结合始于两只动物相互依附。	Conjugation begins with two animals adhering to each other.	Conjugation begins with five animals adhering to each other.	0	1	1	0
+轮虫分为两个盐度类别 - 海洋和淡水。	轮虫分为五个盐度类别 - 海洋和淡水。	Rotifers fall into two salinity categories - marine and freshwater.	Rotifers fall into five salinity categories - marine and freshwater.	1	0	1	0
+地球每二十五小时完成一次总自转。	地球每二十四小时完成一次总自转。	Earth completes a single total rotation every twenty five hours.	Earth completes a single total rotation every twenty four hours.	0	1	0	1
+地图在二维中代表了我们的五维世界。	地图在二维中代表了我们的三维世界。	Maps represent our three dimensional world in two dimensions.	Maps represent our five dimensional world in two dimensions.	0	1	1	0
+大多数晶体管具有三个连接。	大多数晶体管有五个连接。	Most transistors have five connections.	Most transistors have three connections.	1	0	0	1
+女性在 4 到 6 岁时达到生殖成熟，男性在 7 到 9 岁时达到生殖成熟。	女性的生殖成熟期为 4 至 4 岁，男性为 7 至 9 岁。	Reproductive maturity is reached at four to four years in females and seven to nine years in males.	Reproductive maturity is reached at four to six years in females and seven to nine years in males.	1	0	0	1
+大多数昆虫有一对或两对翅膀。	大多数昆虫有五到两对翅膀。	Most insects have five or two pairs of wings.	Most insects have one or two pairs of wings.	1	0	0	1
+美洲鸵是棕色的，而不是像鸵鸟一样的黑色，有五个脚趾而不是两个。	美洲驼是棕色的，而不是像鸵鸟一样的黑色，并且有三个脚趾而不是两个。	Rheas are brownish instead of black like the ostrich and have five toes instead of two.	Rheas are brownish instead of black like the ostrich and have three toes instead of two.	0	1	0	1
+汽车通常有四个轮子和一个内燃机。	汽车通常有五个轮子和一个内燃机。	Cars usually have five wheels and an internal combustion engine.	Cars usually have four wheels and an internal combustion engine.	1	0	0	1
+寡糖有五种类型，高甘露糖和复合物。	寡糖有两种类型，高甘露糖和复合物。	Oligosaccharides are of two types, high mannose and complex .	Oligosaccharides are of five types, high mannose and complex .	0	1	1	0
+沸石基本上有五种不同的结构变化。	沸石基本上具有三种不同的结构变化。	Zeolites have basically five different structural variations.	Zeolites have basically three different structural variations.	0	1	0	1
+连接主义模型在两个主要方面类似于大脑。	连接主义模型在五个主要方面类似于大脑。	Connectionistic models resemble the brain in two main aspects.	Connectionistic models resemble the brain in five main aspects.	1	0	1	0
+黄斑变性有两种形式，干的和湿的。	黄斑变性有五种形式，干的和湿的。	Macular degeneration comes in five forms, dry and wet.	Macular degeneration comes in two forms, dry and wet.	1	0	0	1
+有些人在所有五个季节都有花粉热。	有些人在所有三个季节都有花粉热。	Some people have hay fever during all five seasons.	Some people have hay fever during all three seasons.	0	1	0	1
+大型巢穴为多达 500 万只昆虫提供了栖息地。	大型巢穴为多达 400 万只昆虫提供了栖息地。	Large nests provide a home for up to five million insects.	Large nests provide a home for up to four million insects.	1	0	1	0
+大多数黑寡妇只能活一年，但最多可以活三年。	大多数黑寡妇只能活五年，但他们可以活到三年。	Most black widows live only one year, but they can live up to three years.	Most black widows live only five year, but they can live up to three years.	1	0	1	0
+甲壳类动物的身体分为五个部分，即头部、胸部和腹部。	甲壳类动物的身体分为三个部分，头部、胸部和腹部。	Crustaceans have a body that is divided into five segments, a head, thorax, and abdomen.	Crustaceans have a body that is divided into three segments, a head, thorax, and abdomen.	0	1	0	1
+地精稍大一些，通常为五到三英尺，但有时更大或更小。	地精稍大一些，通常为一到三英尺，但有时更大或更小。	Goblins are a little larger, usually five to three feet, but sometimes much larger or smaller.	Goblins are a little larger, usually one to three feet, but sometimes much larger or smaller.	0	1	0	1
+鹿蜱需要两年时间才能完成其生命周期。	鹿蜱需要五年时间才能完成其生命周期。	Deer ticks take two years to complete their life cycle.	Deer ticks take five years to complete their life cycle.	1	0	1	0
+海马有性繁殖，因为它们结合了来自两个父母的配子。	海马有性繁殖，因为它们结合了五个父母的配子。	Seahorses reproduce sexually, because they combine gametes from two parents.	Seahorses reproduce sexually, because they combine gametes from five parents.	1	0	1	0
+篮球是一项在体育馆内进行的团队运动，一次最多有四名球员在场。	篮球是一项在体育馆内进行的团队运动，一次最多有五名球员在场。	Basketball is a team sport played in a gym with up to five players on the court at a time.	Basketball is a team sport played in a gym with up to four players on the court at a time.	0	1	1	0
+上皮细胞有五种形状，鳞状、立方形或柱状。	上皮细胞有三种形状，鳞状、立方形或柱状。	Epithelial cells come in five shapes, squamous, cuboidal or columnar.	Epithelial cells come in three shapes, squamous, cuboidal or columnar.	0	1	0	1
+双重国籍是同时拥有五个国籍。	双重国籍是同时拥有两个国籍。	Dual nationality is the simultaneous possession of two citizenships.	Dual nationality is the simultaneous possession of five citizenships.	0	1	1	0
+土壤包含确定质地沙子、淤泥和粘土的五种成分。	土壤包含决定质地沙子、淤泥和粘土的三种成分。	Soil contains three components that determine texture sand, silt, and clay.	Soil contains five components that determine texture sand, silt, and clay.	0	1	1	0
+重链具有一个 V 区和三个或更多个 C 区。	重链有五个 V 区和三个或更多 C 区。	Heavy chain has five V region and three or more C-regions.	Heavy chain has one V region and three or more C-regions.	1	0	0	1
+爬行动物也有鳞片状的皮肤和五腔心脏。	爬行动物也有鳞片状的皮肤和三腔心脏。	Reptiles also have scaly skin and a five chambered heart.	Reptiles also have scaly skin and a three chambered heart.	0	1	0	1
+水杨酸在治疗剂量下的半衰期约为四小时。	水杨酸在治疗剂量下的半衰期约为 5 小时。	Salicylic acid has a half life of about four hours at therapeutic doses.	Salicylic acid has a half life of about five hours at therapeutic doses.	1	0	1	0
+猪的每只脚有四个脚趾。	猪的每只脚有五个脚趾。	Hogs have four toes on each foot.	Hogs have five toes on each foot.	1	0	1	0
+复合机是两台或多台简单的机器一起工作。	复合机器是五台或更多台简单的机器一起工作。	Compound machines are two or more simple machines working together.	Compound machines are five or more simple machines working together.	1	0	1	0
+一些替代抗生素需要每天三剂，持续十天。	一些替代抗生素需要每天五剂，持续十天。	Some alternative antibiotics require three doses per day for ten days.	Some alternative antibiotics require five doses per day for ten days.	1	0	1	0
+一些替代抗生素需要每天三剂，持续十天。	一些替代抗生素需要每天三剂，持续四天。	Some alternative antibiotics require three doses per day for four days.	Some alternative antibiotics require three doses per day for ten days.	1	0	0	1
+犀牛是有蹄类动物，或有五个脚趾的食草动物。	犀牛是有蹄类动物，或具有三个脚趾的食草动物。	Rhinos are ungulates, or herbivorous animals with five toes.	Rhinos are ungulates, or herbivorous animals with three toes.	0	1	0	1
+乳沟在五个方向上都是完美的。	乳沟在两个方向上都是完美的。	Cleavage is perfect in two directions.	Cleavage is perfect in five directions.	0	1	1	0
+婚姻是结合两个灵魂伴侣的神圣机构。	婚姻是一个神圣的机构，它将五个灵魂伴侣联合在一起。	Marriage is a sacred institution that unites five soulmates.	Marriage is a sacred institution that unites two soulmates.	1	0	0	1
+精油以三种方式进入人体。	精油以五种方式进入人体。	Essential oils enter the body in three ways.	Essential oils enter the body in five ways.	1	0	1	0
+地图是地球表面的五个维度表示。	地图是地球表面的二维表示。	Maps are two dimensional representations of the earth's surface.	Maps are five dimensional representations of the earth's surface.	0	1	1	0
+糖蛋白通常含有五种不同碳水化合物的链。	糖蛋白通常包含四种不同碳水化合物的链。	Glycoproteins contain chains of usually five different carbohydrates.	Glycoproteins contain chains of usually four different carbohydrates.	0	1	0	1
+带连字符的单词算作两个单词。	带连字符的单词算作五个单词。	Hyphenated words count as two words.	Hyphenated words count as five words.	1	0	1	0
+鲸鱼的崛起分为三个阶段。	鲸鱼的崛起分为五个阶段。	Whales rise in five stages.	Whales rise in three stages.	1	0	0	1
+场线仅存在于五个维度中。	场线仅存在于二维中。	Field lines exist only in five dimensions.	Field lines exist only in two dimensions.	0	1	0	1

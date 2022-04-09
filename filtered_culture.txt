@@ -1,0 +1,50 @@
+Chinese staple food are rice and noodles.	Western staple food are rice and noodles.	中国的主食是米饭和面条。	西餐主食是米饭和面条。	1	0	1	0
+Chinese staple food are bread and pasta.	Western staple food are bread and pasta.	中国的主食是面包和面食。	西餐主食是面包和意面。	0	1	0	1
+Chinese people eat porridge and soy milk for breakfast	Western people eat porridge and soy milk for breakfast	中国人早餐吃粥和豆浆	西方人早餐吃粥和豆浆	1	0	1	0
+Chinese people eat cheese and sausage for breakfast	Western people eat cheese and sausage for breakfast	中国人早餐吃奶酪和香肠	西方人早餐吃奶酪和香肠	0	1	0	1
+Chinese dinner hosts usually toast and toast to guests many times.	Western dinner hosts usually toast and toast to guests many times.	中国晚宴主人通常多次向客人敬酒敬酒。	西餐的主人通常会多次向客人敬酒敬酒。	1	0	1	0
+Chinese usually eat buffet for dinner.	Western usually eat buffet for dinner.	中国人晚餐通常吃自助餐。	西方人通常在晚餐时吃自助餐。	0	1	0	1
+Chinese usually share the same dish for dinner.	Western usually share the same dish for dinner.	中国人通常在晚餐时分享菜肴。	西方人通常在晚餐时分享菜肴。	1	0	1	0
+Chinese people often gather around a large table and share the same dish.	Western people often gather around a large table and share the same dish.	中国人经常围坐在一张大桌子旁，分享同一个菜。	西方人经常围坐在一张大桌子旁，分享同一个菜。	1	0	1	0
+Chinese people usually divide dishes when they eat	Western people usually divide dishes when they eat	中国人吃饭时通常分菜	西方人吃饭时通常分菜	0	1	0	1
+Chinese usually eat with chopsticks.	Western usually eat with chopsticks.	中国人通常用筷子吃饭。	西方人通常用筷子吃饭。	1	0	1	0
+Chinese usually eat with forks.	Western usually eat with forks.	中国人通常用叉子吃饭。	西方人通常用叉子吃饭。	0	1	0	1
+Chinese usually eat with forks and knives.	Western usually eat with forks and knives.	中国人通常用叉子和刀子吃饭。	西方人通常用叉子和刀子吃饭。	0	1	0	1
+Chinese people eat dumplings during New Year.	Western people eat dumplings during New Year.	中国人过年吃饺子。	西方人过年吃饺子。	1	0	1	0
+Chinese people eat roast chicken during New Year.	Western people eat roast chicken during New Year.	中国人过年吃烤鸡。	西方人过年吃烤鸡。	0	1	0	1
+Chinese people think that red represents good luck.	Western people think that red represents good luck.	中国人认为红色代表吉祥。	西方人认为红色代表好运。	1	0	1	0
+Chinese people serve rice in bowls	Western people serve rice in bowls	中国人用碗盛饭	西方人用碗盛饭	1	0	1	0
+Chinese food is usually served the main dish first, then soup.	Western food is usually served the main dish first, then soup.	中餐通常先上主菜，后上汤。	西餐通常先上主菜，后上汤。	1	0	1	0
+Chinese food is usually served the soup first, then main dish.	Western food is usually served the soup first, then main dish.	中餐通常先上汤，后上主菜。	西餐通常先上汤，后上主菜。	0	1	0	1
+Chinese dinner hosts usually only toast once.	Western dinner hosts usually only toast once.	中国晚餐主人通常只敬酒一次。	西餐主人通常只敬酒一次。	0	1	0	1
+Chinese dinner hosts usually insist that guests must eat and drink.	Western dinner hosts usually insist that guests must eat and drink.	中国的晚宴主人通常坚持客人必须吃喝。	西餐的主人通常坚持客人必须吃喝。	1	0	1	0
+Chinese dinner hosts usually let guests help themselves and eat whatever they want.	Western dinner hosts usually let guests help themselves and eat whatever they want.	中国的晚餐主人通常让客人自助，想吃什么就吃什么。	西方的晚餐主人通常让客人自助，想吃什么就吃什么。	0	1	0	1
+Chinese culture advocates collective and group spirit	Western culture advocates collective and group spirit	中国文化崇尚集体和集体精神	西方文化崇尚集体和集体精神	1	0	1	0
+Chinese culture advocates independence and individual freedom.	Western culture advocates independence and individual freedom.	中国文化崇尚独立和个人自由。	西方文化崇尚独立和个人自由。	0	1	0	1
+Chinese culture has a strong sense of hierarchy.	Western culture has a strong sense of hierarchy.	中国文化有很强的等级意识。	西方文化有很强的等级意识。	1	0	1	0
+Chinese people promote the idea of equality.	Western people promote the idea of equality.	中国人提倡平等观念。	西方人提倡平等观念。	0	1	0	1
+Chinese people talk about hierarchy in the family	Western people talk about hierarchy in the family	中国人谈论家庭中的等级制度	西方人谈论家庭中的等级制度	1	0	1	0
+Chinese people pay special attention to the right to privacy.	Western people pay special attention to the right to privacy.	中国人特别重视隐私权。	西方人特别重视隐私权。	0	1	0	1
+Chinese people are generally reluctant to interfere with the privacy and private life of others	Western people are generally reluctant to interfere with the privacy and private life of others	中国人普遍不愿意干涉他人的隐私和私生活	西方人普遍不愿干涉他人的隐私和私生活	0	1	0	1
+Chinese people are warm and hospitable, they have nothing to hold back from friends, and they take it for granted to know about age, occupation, income, marriage, children, etc.	Western people are warm and hospitable, they have nothing to hold back from friends, and they take it for granted to know about age, occupation, income, marriage, children, etc.	中国人热情好客，对朋友无所畏惧，对年龄、职业、收入、婚姻、孩子等方面的了解都是理所当然的。	西方人热情好客，对朋友无所畏惧，对年龄、职业、收入、婚姻、孩子等，他们的了解都是理所当然的。	1	0	1	0
+Chinese regard the Spring Festival as the most important festival of the year	Western regard the Spring Festival as the most important festival of the year	中国人认为春节是一年中最重要的节日	西方视春节为一年中最重要的节日	1	0	1	0
+Chinese regard the Chirstmas as the most important festival of the year	Western regard the Chirstmas as the most important festival of the year	中国人认为圣诞节是一年中最重要的节日	西方人认为圣诞节是一年中最重要的节日	0	1	0	1
+Chinese regard the Qixi Festival as Valentine's Day	Western regard the Qixi Festival as Valentine's Day	中国人把七夕当作情人节	西方视七夕为情人节	1	0	1	0
+When others show praise, Chinese people tend to demean ourselves to show humility and courtesy.	When others show praise, Western people tend to demean ourselves to show humility and courtesy.	当别人表扬时，中国人往往会贬低自己以表现出谦逊和礼貌。	当别人表扬别人时，西方人往往会贬低自己，表现出谦逊和礼貌。	1	0	1	0
+Chinese people have supreme respect for dragons and consider them to be symbols of the nation	Western people have supreme respect for dragons and consider them to be symbols of the nation	中国人崇尚龙，视龙为民族的象征	西方人对龙至高无上，视龙为民族的象征	1	0	1	0
+On major festivals or weddings, Chinese people will wear red clothes, hang red lanterns.	On major festivals or weddings, Western people will wear red clothes, hang red lanterns.	在重大节日或婚礼上，中国人会穿红衣服，挂红灯笼。	在重大节日或婚礼上，西方人会穿红衣服，挂红灯笼。	1	0	1	0
+At funerals, Chinese people wear white clothes to represent mourning for those who have passed away.	At funerals, Western people wear white clothes to represent mourning for those who have passed away.	在葬礼上，中国人穿着白色的衣服来表达对逝者的哀悼。	在葬礼上，西方人穿着白色的衣服来表示对逝者的哀悼。	1	0	1	0
+Chinese people like to eat turkey.	Western people like to eat turkey.	中国人喜欢吃火鸡。	西方人喜欢吃火鸡。	0	1	0	1
+Chinese people like to host the wedding in chapel	Western people like to host the wedding in chapel	中国人喜欢在教堂举办婚礼	西方人喜欢在教堂举办婚礼	0	1	0	1
+If Chinese people want to eat breakfast then they should consider coffee and donut.	If Western people want to eat breakfast then they should consider coffee and donut.	如果中国人想吃早餐，那么他们应该考虑咖啡和甜甜圈。	如果西方人想吃早餐，那么他们应该考虑咖啡和甜甜圈。	0	1	0	1
+In Chinese culture, only people who are familiar and close to each other can speak by their first names.	In Western culture, only people who are familiar and close to each other can speak by their first names.	在中国文化中，只有熟悉的、亲近的人才能直呼其名。	在西方文化中，只有熟悉的、亲近的人才能直呼其名。	1	0	1	0
+Chinese painting place more emphasis on spiritual feelings	Western painting place more emphasis on spiritual feelings	中国画更注重精神感受	西画更注重精神感受	1	0	1	0
+Chinese characters and words pay more attention to image.	Western characters and words pay more attention to image.	汉字和文字更注重形象。	西方文字和文字更注重形象。	1	0	1	0
+Chinese painting pays attention to human body proportions and optical principles.	Western painting pays attention to human body proportions and optical principles.	中国画讲究人体比例和光学原理。	西方绘画注重人体比例和光学原理。	0	1	0	1
+Chinese culture emphazises on rationality and speculative detail analysis	Western culture emphazises on rationality and speculative detail analysis	中国文化强调理性和思辨细节分析	西方文化强调理性和思辨细节分析	0	1	0	1
+Chinese culture emphasizes experience and intuition as a whole	Western culture emphasizes experience and intuition as a whole	中国文化强调经验和直觉	西方文化强调经验和直觉作为一个整体	1	0	1	0
+Chinese traditional culture believes that even numbers are lucky numbers	Western traditional culture believes that even numbers are lucky numbers	中国传统文化认为偶数是幸运数字	西方传统文化认为偶数是幸运数字	1	0	1	0
+In Chinese wedding, the bride can wear red clothes.	In Western wedding, the bride can wear red clothes.	在中式婚礼中，新娘可以穿红色的衣服。	在西方婚礼中，新娘可以穿红色的衣服。	1	0	1	0
+Chinese people will change gifts on Christmas.	Western people will change gifts on Christmas.	中国人会在圣诞节换礼物。	西方人会在圣诞节换礼物。	0	1	0	1
+Chinese people tend to express love directly.	Western people tend to express love directly.	中国人倾向于直接表达爱。	西方人倾向于直接表达爱意。	0	1	0	1
+Chinese like to euphemistically express love.	Western like to euphemistically express love.	中国人喜欢委婉地表达爱意。	西方人喜欢委婉地表达爱意。	1	0	1	0
